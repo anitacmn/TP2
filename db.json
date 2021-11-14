@@ -1,0 +1,46 @@
+
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Notebook Banghó Max L4 i1 Microsoft 365 Personal",
+            "descripcion": "podrás llevar tus archivos y documentos a todos lados gracias a su peso ligero y tamaño reducido sin perder prestaciones, pantalla de 14 pulgadas Full HD para visualización completa. Además, toda la conectividad a tu alcance con puertos USB, HDMI, Wifi y Bluetooth",
+            "fecha": "3Nov2021",
+            "url": "img/shopping.png",            
+            "precio": 65000,
+            "cantidad": 6
+
+            
+        },
+        {
+            "id": 2,
+            "nombre": "Banghó Max",
+            "descripcion": "Notebook Banghó Max L5 i3 Microsoft 365 Personal, la mejor relación entre rendimiento y presupuesto gracias al Procesador Intel Core i3 de 10ma generación, 8GB de RAM y 240GB de almacenamiento en disco de estado sólido. Podrás trabajar en tu casa, estudio u oficina con una notebook potente con pantalla HD y Windows 10 Home",
+            "fecha": "3Nov2021",
+            "url": "img/shopping (4).png",            
+            "precio": 120000,
+            "cantidad": 10
+
+        },
+        {
+            "id": 3,
+            "nombre": "Banghó Max",
+            "descripcion": "con la Notebook Banghó Max L4 i1 Microsoft 365 Personal, podrás llevar tus archivos y documentos a todos lados gracias a su peso ligero y tamaño reducido sin perder prestaciones, pantalla de 14 pulgadas Full HD para visualización completa. Además, toda la conectividad a tu alcance con puertos USB, HDMI, Wifi y Bluetooth.",
+            "fecha": "3Nov2021",
+            "url": "img/noteb.png",            
+            "precio": 350000,
+            "cantidad": 15
+
+        },
+        {
+            "id": 4,
+            "nombre": "Notebook Banghó Max L4 i1 Microsoft 365 Personal",
+            "descripcion": "Notebook Banghó Max L4 i1 Microsoft 365 Personal",
+            "fecha": "3Nov2021",
+            "url": "img/shopping.png",            
+            "precio": 65000,
+            "cantidad": 6
+
+        }
+    ]
+}
